@@ -1,0 +1,3 @@
+The similarity for query words in document 1: 0.14732671611824286
+The similarity for query words in document 2: 0.3839876110458622
+The similarity for query words in document 3: 0.0

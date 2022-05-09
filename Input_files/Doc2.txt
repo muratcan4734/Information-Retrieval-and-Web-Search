@@ -1,0 +1,1 @@
+This is another sample document, to test the Stemming Algorithm. Sample document.

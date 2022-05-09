@@ -1,0 +1,3 @@
+The cosine similarity between doc1 and doc2: 0.08485745064821397
+The cosine similarity between doc2 and doc3: 0.0
+The cosine similarity between doc1 and doc3: 0.0

@@ -1,0 +1,1 @@
+This is a sample document, to check if the file read feature works well! -"Test Author"
